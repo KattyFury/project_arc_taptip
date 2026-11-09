@@ -103,7 +103,7 @@ export default function SettingsPage() {
       }
     >
       {/* Figma chua ve man Setting - dung cung ngon ngu voi the xam o Home/
-          History: the #E4E4DB bo 8, cao 65, pill 100x49 viền den (vang khi
+          History: the #E4E4DB radius 8, height 65, pill 100x49 black border (yellow when
           chua bat = hanh dong chinh, kem khi da bat). */}
       <div className="w-full bg-surface rounded-[8px] flex items-center justify-between" style={{ height: 65, paddingLeft: 10, paddingRight: 8 }}>
         <div className="flex items-center gap-2">
